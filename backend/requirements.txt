@@ -1,0 +1,24 @@
+# Flask Web Application
+Flask==2.3.3
+Werkzeug==2.3.7
+Flask-Cors==4.0.0
+
+# FastAPI Microservice
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.9
+
+# Groq API (LLM)
+groq==0.12.0
+httpx==0.27.2
+
+# Document Processing
+python-docx==1.1.0
+PyPDF2==3.0.1
+
+# HTTP Client
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.1
